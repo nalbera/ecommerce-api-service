@@ -1,4 +1,4 @@
-# API - Servicio para un emoccerce simple 📋
+# API - Servicio para un ecommerce simple 📋
 ## Objetivos del proyecto 📝
 - Construir un backend utilizando:<br>
       - NestJs: como framework de desarrollo.<br>
@@ -9,7 +9,7 @@
 - Practicar y afianzar nuevas tecnologías aprendidas
 - Aplicar mejores prácticas de programación
 ## Descripción ✏
-La idea es crear una aplicación en donde los usuarios puedean registrarse y realizar las operaciones típicas en un ecommerce:<br>
+La idea es crear una aplicación en donde los usuarios puedan registrarse y realizar las operaciones típicas en un ecommerce:<br>
 - Autenticación de usuario.
 - Geestión de datos del usuario registrado (solo los usuarios adeministradores pueden eliminar un usuario)
 - Gestión de órdenes de compra por parte del usuario
